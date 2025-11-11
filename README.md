@@ -1,43 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ujjwal Lokhande
 ========================================================================================================================================
 
-\# 🔐 Cyber Security Operations Toolkit
 
-\## 📖 Description
 
-This project is a beginner-friendly \*\*Cyber Security Operations learning toolkit\*\* created to help students and professionals understand the fundamentals of \*\*network monitoring, incident detection, and basic SOC workflows\*\*.
-
-It is designed as a hands-on companion for learners who want to practice concepts in \*\*networking, security analysis, and automation\*\* using open-source tools.
-
-\## ✨ Features
-
-\- 📡 Packet capture and analysis with \*\*Wireshark/tshark\*\*
-
-\- 🛡️ Log analysis scripts in \*\*Python\*\* (failed logins, brute-force detection, etc.)
-
-\- 📊 Basic \*\*SIEM-like dashboard\*\* using ELK stack (Elasticsearch, Logstash, Kibana)
-
-\- 🚨 Incident report templates for security events
-
-\- ⚡ Simple automation scripts for alert generation
-
-\## 🛠️ Tech Stack
-
-\- Python (for automation & log parsing)
-
-\- Linux (Ubuntu/Kali for environment setup)
-
-\- Wireshark / tshark (for packet sniffing)
-
-\- ELK stack (basic log management)
-
-\- Markdown for reporting
-
-\## 🚀 How to Use
-
-1\. Clone the repo:
-
-\`\`\`bash
 
 git clone https://github.com/your-username/cybersec-operations-toolkit.git
 
